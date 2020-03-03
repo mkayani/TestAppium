@@ -44,6 +44,10 @@ public class Base{
         return driver;
     }
 
+    public static void main(String[] args) {
+        
+    }
+
     public static ExtentReports extent;
 
     @BeforeSuite
